@@ -6,7 +6,7 @@
 
 ⚡ Fun fact: I become hacking at the age of 7
 
-👯<a href:"https://www.linkedin.com/in/israel-albuquerque-286049152/">My linkedin.</a>
+👯<a href="https://www.linkedin.com/in/israel-albuquerque-286049152/">My linkedin.</a>
 <!--
 **leoisrael/leoisrael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
