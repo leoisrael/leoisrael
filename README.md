@@ -1,6 +1,6 @@
 ## Olá! Bem-vindo ao meu github. 
 
-❤Javascript
+❤ Love Javascript
 
 ⚡ Fun fact: I become hacking at 7 years old
 
