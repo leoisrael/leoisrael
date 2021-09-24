@@ -1,4 +1,4 @@
-## Olá! Bem-vindo ao meu github. 
+## Hi! Welcome to my github.
 
 ❤ Love Javascript
 
