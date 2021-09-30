@@ -1,5 +1,7 @@
 ## Hi! Welcome to my github.
 
+🌳 learning c#
+
 ❤ Love Javascript
 
 ⚡ Fun fact: I become hacking at 7 years old
