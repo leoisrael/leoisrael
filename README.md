@@ -2,7 +2,7 @@
 
 🌳 learning c#
 
-❤ Love Javascript
+❤ I still Love Javascript
 
 ⚡ Fun fact: I become hacking at 7 years old
 
