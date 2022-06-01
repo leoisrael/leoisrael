@@ -1,6 +1,6 @@
 ## Hi! Welcome to my github.
 
-🌳 learning c#
+🌳 i hate c#
 
 ❤ I still Love Javascript
 
