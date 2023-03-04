@@ -4,7 +4,7 @@
 
 <p align="center">Algumas informações sobre mim:</p>
 
-<ul>
+<ul align="center">
   <li>🚀 Atualmente trabalho com JavaScript, React, Node.js, Vue.js, Python, Docker e MongoDB.</li>
   <li>💻 Comecei a programar quando tinha 7 anos de idade e nunca mais parei.</li>
   <li>🌎 Sempre em busca de novos desafios e aprendizados.</li>
