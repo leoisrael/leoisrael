@@ -1,6 +1,6 @@
 <h1 align="center">Bem-vindo(a) ao meu perfil no GitHub!</h1>
 
-<p align="center">Sou um(a) desenvolvedor(a) apaixonado(a) por tecnologia e programação.</p>
+<p align="center">Sou um desenvolvedor apaixonado por tecnologia e programação.</p>
 
 <p align="center"><strong>Algumas informações sobre mim:</strong></p>
 
