@@ -5,10 +5,11 @@
 <p align="center">Algumas informações sobre mim:</p>
 
 <ul align="center">
-  <li style="list-style: none;">🚀 Atualmente trabalho com JavaScript, React, Node.js, Vue.js, Python, Docker e MongoDB.</li>
-  <li style="list-style: none;">💻 Comecei a programar quando tinha 7 anos de idade e nunca mais parei.</li>
-  <li style="list-style: none;">🌎 Sempre em busca de novos desafios e aprendizados.</li>
+  <li style="list-style-type: none; list-style: none;">🚀 Atualmente trabalho com JavaScript, React, Node.js, Vue.js, Python, Docker e MongoDB.</li>
+  <li style="list-style-type: none; list-style: none;">💻 Comecei a programar quando tinha 7 anos de idade e nunca mais parei.</li>
+  <li style="list-style-type: none; list-style: none;">🌎 Sempre em busca de novos desafios e aprendizados.</li>
 </ul>
+
 
 <p align="center">Você pode me encontrar em:</p>
 
