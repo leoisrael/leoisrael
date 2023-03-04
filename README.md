@@ -2,13 +2,13 @@
 
 <p align="center">Sou um(a) desenvolvedor(a) apaixonado(a) por tecnologia e programação.</p>
 
-<p align="center">Algumas informações sobre mim:</p>
+<p align="center"><strong>Algumas informações sobre mim:</strong></p>
 
 <p align="center">🚀 Atualmente trabalho com JavaScript, React, Node.js, Vue.js, Python, Docker e MongoDB.</p>
 <p align="center">💻 Comecei a programar quando tinha 7 anos de idade e nunca mais parei.</p>
 <p align="center">🌎 Sempre em busca de novos desafios e aprendizados.</p>
 
-<p align="center">Você pode me encontrar em:</p>
+<p align="center"><strong>Você pode me encontrar em:</strong></p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/seu_perfil_no_linkedin/" target="_blank">
