@@ -13,20 +13,24 @@
 <p align="center">Você pode me encontrar em:</p>
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/seu_perfil_no_linkedin/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo">
+  </a>
+  <a href="https://www.instagram.com/seu_perfil_no_instagram/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram logo">
+  </a>
+</div>
+
+<br>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&username=leoisrael" height="150" alt="stats graph"  />
+</div>
+
+<br>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&username=leoisrael" height="150" alt="languages graph"  />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu_nome_de_usuário&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu_nome_de_usuário&layout=compact&theme=tokyonight" alt="Most Used Languages">
 </div>
 
 <br>
