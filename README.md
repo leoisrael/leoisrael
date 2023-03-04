@@ -1,38 +1,27 @@
-<h1 align="center">Bem-vindo(a) ao meu perfil no GitHub!</h1>
-
-<p align="center">Sou um desenvolvedor apaixonado por tecnologia e programação.</p>
-
-<p align="center"><strong>Algumas informações sobre mim:</strong></p>
-
-<p align="center">🚀 Atualmente trabalho com JavaScript, React, Node.js, Vue.js, Python, Docker e MongoDB.</p>
-<p align="center">💻 Comecei a programar quando tinha 7 anos de idade e nunca mais parei.</p>
-<p align="center">🌎 Sempre em busca de novos desafios e aprendizados.</p>
-
-<p align="center"><strong>Você pode me encontrar em:</strong></p>
-
+<h1 align="center">Welcome to my GitHub profile!</h1>
+<p align="center">I am a technology and programming enthusiast.</p>
+<p align="center"><strong>Some information about me:</strong></p>
+<p align="center">🚀 I currently work with JavaScript, React, Node.js, Vue.js, Python, Docker, and MongoDB.</p>
+<p align="center">💻 I started programming when I was 7 years old and never stopped.</p>
+<p align="center">🌎 Always looking for new challenges and learning opportunities.</p>
+<p align="center"><strong>You can find me at:</strong></p>
 <div align="center">
-  <a href="https://www.linkedin.com/in/seu_perfil_no_linkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/israel-albuquerque-286049152/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo">
   </a>
-  <a href="https://www.instagram.com/seu_perfil_no_instagram/" target="_blank">
+  <a href="https://www.instagram.com/israel_gma/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram logo">
   </a>
 </div>
-
 <br>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&username=leoisrael" height="150" alt="stats graph"  />
 </div>
-
 <br>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&username=leoisrael" height="150" alt="languages graph"  />
 </div>
-
 <br>
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo">
