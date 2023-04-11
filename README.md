@@ -15,11 +15,7 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&username=leoisrael" height="150" alt="stats graph"  />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&username=leoisrael" height="150" alt="languages graph"  />
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=leoisrael)](https://git.io/streak-stats)
 </div>
 <br>
 <div align="center">
